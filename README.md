@@ -9,6 +9,7 @@ DSA
 | [0001-two-sum](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0001-two-sum) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3429-special-array-i](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/3429-special-array-i) |
 ## String
 |  |
 | ------- |
