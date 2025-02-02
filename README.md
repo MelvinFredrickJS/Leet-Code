@@ -7,6 +7,7 @@ DSA
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0001-two-sum) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3429-special-array-i](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/3429-special-array-i) |
