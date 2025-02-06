@@ -11,7 +11,7 @@ class Solution {
                 }
             }
         }
-        return new int[]{};//this is two sum solution
+        return new int[]{};//this is two sum 
         
     }
 }
