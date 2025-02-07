@@ -16,6 +16,7 @@ DSA
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0013-roman-to-integer) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -41,6 +42,7 @@ DSA
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0013-roman-to-integer) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
@@ -48,4 +50,8 @@ DSA
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/3455-minimum-length-of-string-after-operations) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
