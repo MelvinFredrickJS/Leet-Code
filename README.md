@@ -21,6 +21,7 @@ DSA
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Trie
 |  |
@@ -71,4 +72,12 @@ DSA
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/3447-clear-digits) |
+## Simulation
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
