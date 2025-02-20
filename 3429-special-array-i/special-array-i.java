@@ -6,5 +6,5 @@ class Solution {
             }
         }
         return true;
-}
+}//special array 
 }
