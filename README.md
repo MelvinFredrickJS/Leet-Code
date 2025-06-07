@@ -10,6 +10,7 @@ DSA
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -62,6 +63,7 @@ DSA
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -95,6 +97,7 @@ DSA
 | [0042-trapping-rain-water](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
