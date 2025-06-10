@@ -9,6 +9,7 @@ DSA
 | [0001-two-sum](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
@@ -68,6 +69,7 @@ DSA
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
@@ -104,6 +106,7 @@ DSA
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0053-maximum-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
