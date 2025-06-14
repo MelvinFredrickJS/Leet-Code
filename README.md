@@ -11,6 +11,7 @@ DSA
 | [0031-next-permutation](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0189-rotate-array) |
@@ -57,6 +58,7 @@ DSA
 | ------- |
 | [0001-two-sum](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
@@ -118,4 +120,8 @@ DSA
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
