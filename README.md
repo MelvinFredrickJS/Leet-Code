@@ -10,6 +10,7 @@ DSA
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0075-sort-colors) |
@@ -70,6 +71,7 @@ DSA
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
@@ -123,5 +125,6 @@ DSA
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
