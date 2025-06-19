@@ -15,6 +15,7 @@ DSA
 | [0053-maximum-subarray](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
@@ -133,5 +134,6 @@ DSA
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0792-binary-search](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
