@@ -140,4 +140,8 @@ DSA
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0162-find-peak-element) |
 | [0792-binary-search](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0792-binary-search) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
