@@ -35,6 +35,7 @@ DSA
 | ------- |
 | [0013-roman-to-integer](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -54,6 +55,7 @@ DSA
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
@@ -111,6 +113,7 @@ DSA
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0075-sort-colors) |
