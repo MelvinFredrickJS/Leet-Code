@@ -37,6 +37,7 @@ DSA
 | [0003-longest-substring-without-repeating-characters](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
@@ -106,6 +107,7 @@ DSA
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [3447-clear-digits](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/3447-clear-digits) |
 ## Simulation
