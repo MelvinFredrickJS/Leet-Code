@@ -10,6 +10,7 @@ DSA
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0053-maximum-subarray) |
@@ -149,6 +150,7 @@ DSA
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0162-find-peak-element) |
