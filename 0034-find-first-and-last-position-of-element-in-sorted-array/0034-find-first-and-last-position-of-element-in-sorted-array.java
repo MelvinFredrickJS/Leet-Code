@@ -1,37 +1,46 @@
 class Solution {
-    public int[] searchRange(int[] nums, int target) {
-        int res[]=new int[2];
-        int fi=-1;
+    public int fi(int []nums,int target){
+        int firstindex=-1;
         int low=0;
         int high=nums.length-1;
         while(low<=high){
             int mid=(low+high)/2;
             if(nums[mid]==target){
-                fi=mid;
+                firstindex=mid;
                 high=mid-1;
             }else if(nums[mid]>target){
                 high=mid-1;
-
-            }else{
+            }
+            else{
                 low=mid+1;
             }
         }
-        low=0;
-        high=nums.length-1;
-        int li=-1;
+        return firstindex;
+    }
+    public int lastindex(int []nums,int target){
+        int last_i=-1;
+        int low=0;
+        int high=nums.length-1;
         while(low<=high){
             int mid=(low+high)/2;
             if(nums[mid]==target){
-                li=mid;
+                last_i=mid;
                 low=mid+1;
-            }else if(nums[mid]>target){
-                high=mid-1;
-            }else{
+            }else if(nums[mid]<target){
                 low=mid+1;
             }
+            else{
+                high=mid-1;
+            }
         }
-        res[0]=fi;
-        res[1]=li;
-        return res;
+        return last_i;
+    }
+    public int[] searchRange(int[] nums, int target) {
+        int first=fi(nums,target);
+        int last=lastindex(nums,target);
+        int arr[]=new int [2];
+        arr[0]=first;
+        arr[1]=last;
+        return arr;
     }
 }
