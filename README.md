@@ -160,6 +160,7 @@ DSA
 | ------- |
 | [0182-duplicate-emails](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0183-customers-who-never-order) |
+| [0197-rising-temperature](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0595-big-countries) |
 | [1153-product-sales-analysis-i](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/1153-product-sales-analysis-i) |
