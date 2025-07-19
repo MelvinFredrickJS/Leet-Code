@@ -27,6 +27,7 @@ DSA
 | [0283-move-zeroes](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0907-koko-eating-bananas) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -157,6 +158,7 @@ DSA
 | [0162-find-peak-element](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0162-find-peak-element) |
 | [0792-binary-search](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0907-koko-eating-bananas) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Database
 |  |
 | ------- |
