@@ -18,6 +18,7 @@ DSA
 | [0073-set-matrix-zeroes](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -101,6 +102,7 @@ DSA
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -130,6 +132,7 @@ DSA
 | [0031-next-permutation](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0283-move-zeroes) |
