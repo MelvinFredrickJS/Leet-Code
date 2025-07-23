@@ -1,28 +1,23 @@
 class Solution {
-    public static void rev(int[] arr, int start, int end){
-        while(start < end){
-            int temp = arr[start];
-            arr[start] = arr[end];
-            arr[end] = temp;
+    public void rev(int arr[],int start, int stop){
+        while(start<=stop){
+            int temp=arr[start];
+            arr[start]=arr[stop];
+            arr[stop]=temp;
             start++;
-            end--;
+            stop--;
         }
     }
-
     public void rotate(int[] nums, int k) {
-        int n = nums.length;
-        if (n == 0) return;
+        int len=nums.length;
+        if(len==0)return;
+        if(k>len){
+            k=k%len;
+        }
+        if(k==0)return;
 
-        k = k % n;            // Handle k > n
-        if (k == 0) return;   // No need to rotate
-
-        // Step 1: Reverse the whole array
-        rev(nums, 0, n - 1);
-
-        // Step 2: Reverse first k elements
-        rev(nums, 0, k - 1);
-
-        // Step 3: Reverse the rest
-        rev(nums, k, n - 1);
+        rev(nums,0,len-1);
+        rev(nums,0,k-1);
+        rev(nums,k,len-1);
     }
 }
