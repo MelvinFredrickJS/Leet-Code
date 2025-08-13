@@ -206,4 +206,8 @@ DSA
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0011-container-with-most-water) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
