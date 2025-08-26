@@ -3,20 +3,20 @@ class Solution {
         int len1=word1.length();
         int len2=word2.length();
         int min=Math.min(len1,len2);
-        String longstr="";
-        if(len1==min){
-            longstr=word2;
+        String lstr="";
+        if(min==len1){
+            lstr=word2;
         }else{
-            longstr=word1;
+            lstr=word1;
         }
-        StringBuilder obj=new StringBuilder();
-        char[]arr1=word1.toCharArray();
-        char[]arr2=word2.toCharArray();
+        StringBuilder sb=new StringBuilder();
+        char arr1[]=word1.toCharArray();
+        char arr2[]=word2.toCharArray();
         for(int i=0;i<min;i++){
-            obj.append(arr1[i]);
-            obj.append(arr2[i]);
+            sb.append(arr1[i]);
+            sb.append(arr2[i]);
         }
-        obj.append(longstr.substring(min));
-        return obj.toString();
+        sb.append(lstr.substring(min));
+        return sb.toString();    
     }
 }
