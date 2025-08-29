@@ -29,6 +29,7 @@ DSA
 | [0189-rotate-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0907-koko-eating-bananas) |
@@ -210,4 +211,8 @@ DSA
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0237-delete-node-in-a-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
