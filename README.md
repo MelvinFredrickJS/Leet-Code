@@ -53,6 +53,7 @@ DSA
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0412-fizz-buzz) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -151,6 +152,7 @@ DSA
 | [0151-reverse-words-in-a-string](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0392-is-subsequence) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -158,6 +160,7 @@ DSA
 | [0042-trapping-rain-water](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0392-is-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |
