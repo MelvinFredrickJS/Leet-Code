@@ -35,6 +35,7 @@ DSA
 | [0907-koko-eating-bananas](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -161,6 +162,7 @@ DSA
 | [0053-maximum-subarray](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0392-is-subsequence) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -202,6 +204,7 @@ DSA
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Union Find
 |  |
 | ------- |
