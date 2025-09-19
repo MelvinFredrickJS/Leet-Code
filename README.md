@@ -31,6 +31,7 @@ DSA
 | [0229-majority-element-ii](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0283-move-zeroes) |
+| [0724-find-pivot-index](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -221,4 +222,5 @@ DSA
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
