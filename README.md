@@ -35,6 +35,7 @@ DSA
 | [0792-binary-search](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1319-unique-number-of-occurrences](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/1319-unique-number-of-occurrences) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -90,6 +91,7 @@ DSA
 | [0073-set-matrix-zeroes](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0229-majority-element-ii) |
+| [1319-unique-number-of-occurrences](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/1319-unique-number-of-occurrences) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
