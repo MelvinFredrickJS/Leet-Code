@@ -1,18 +1,25 @@
 class Solution {
+    public void swap(int i, int j ,int nums[]){
+        int temp=nums[i];
+        nums[i]=nums[j];
+        nums[j]=temp;
+    }
     public void moveZeroes(int[] nums) {
-        ArrayList<Integer>res=new ArrayList<Integer>();
+        int j=-1;
         for(int i=0;i<nums.length;i++){
-            if(nums[i]!=0){
-                res.add(nums[i]);
+            if(nums[i]==0){
+                j=i;
+                break;
             }
         }
-        int j=0;
-        for(int i:res){
-            nums[j]=i;
-            j++;
+        if(j==-1){
+            return;
         }
-        for(int i=res.size();i<nums.length;i++){
-            nums[i]=0;
+        for(int i=j+1;i<nums.length;i++){
+            if(nums[i]!=0){
+                swap(i,j,nums);
+                j++;
+            }
         }
     }
 }
