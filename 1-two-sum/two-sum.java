@@ -3,14 +3,12 @@ class Solution {
         Map<Integer,Integer>res=new HashMap<>();
         int n=nums.length;
         for(int i=0;i<n;i++){
-            int firstelement=nums[i];
-            int moreneeded=target-firstelement;
-            if(res.containsKey(moreneeded)){
-                return new int[]{res.get(moreneeded),i};
+            int more=target-nums[i];
+            if(res.containsKey(more)){
+                return new int[]{res.get(more),i};
             }
             res.put(nums[i],i);
         }
-        return new int[]{-1,-1};
-        
+        return new int[]{-1-1};
     }
-} 
+}
