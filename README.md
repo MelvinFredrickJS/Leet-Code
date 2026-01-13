@@ -26,6 +26,7 @@ DSA
 | [0128-longest-consecutive-sequence](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0229-majority-element-ii) |
@@ -154,6 +155,7 @@ DSA
 | [0075-sort-colors](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0392-is-subsequence) |
@@ -184,6 +186,7 @@ DSA
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/1056-capacity-to-ship-packages-within-d-days) |
