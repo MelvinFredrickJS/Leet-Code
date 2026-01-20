@@ -60,6 +60,7 @@ DSA
 | [0151-reverse-words-in-a-string](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0412-fizz-buzz) |
+| [1903-largest-odd-number-in-string](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/1903-largest-odd-number-in-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -109,6 +110,7 @@ DSA
 | [0048-rotate-image](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0412-fizz-buzz) |
+| [1903-largest-odd-number-in-string](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/1903-largest-odd-number-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -222,6 +224,7 @@ DSA
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0011-container-with-most-water) |
+| [1903-largest-odd-number-in-string](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/1903-largest-odd-number-in-string) |
 ## Linked List
 |  |
 | ------- |
