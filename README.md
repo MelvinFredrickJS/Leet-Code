@@ -232,6 +232,7 @@ DSA
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0328-odd-even-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
