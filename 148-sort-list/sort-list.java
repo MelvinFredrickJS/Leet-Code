@@ -9,26 +9,46 @@
  * }
  */
 class Solution {
+    public ListNode findmid(ListNode head){
+        ListNode fast=head.next;
+        ListNode slow=head;
+        while(fast!=null && fast.next!=null){
+            fast=fast.next.next;
+            slow=slow.next;
+        }
+        return slow;
+    }
+    public ListNode mergesortedlists(ListNode list1,ListNode list2){
+        ListNode dummyhead=new ListNode(-1,null);
+        ListNode temp=dummyhead;
+        while(list1!=null && list2!=null){
+            if(list1.val>list2.val){
+                temp.next=list2;
+                list2=list2.next;
+            }else{
+                temp.next=list1;
+                list1=list1.next;
+            }
+            temp=temp.next;
+        }
+        if(list1!=null){
+            temp.next=list1;
+        }else{
+            temp.next=list2;
+        }
+        return dummyhead.next;
+    }
     public ListNode sortList(ListNode head) {
         if(head==null||head.next==null){
             return head;
         }
-        ListNode temp=head;
-        ArrayList<Integer>res=new ArrayList<>();
-        while(temp!=null){
-            res.add(temp.val);
-            temp=temp.next;
-        }
-        temp=head;
-        Collections.sort(res);
-        temp.val=res.get(0);
-        temp=temp.next;
-        int count=1;
-        while( count<res.size()&& temp!=null){
-            temp.val=res.get(count);
-            count++;
-            temp=temp.next;
-        }
-        return head;
+        ListNode mid=findmid(head);
+        ListNode right=mid.next;
+        ListNode left=head;
+        mid.next=null;
+        left=sortList(left);
+        right=sortList(right);
+        return mergesortedlists(left,right);
+        
     }
 }
