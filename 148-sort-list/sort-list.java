@@ -21,13 +21,14 @@ class Solution {
         }
         temp=head;
         Collections.sort(res);
-        ListNode r=new ListNode(res.get(0));
-        ListNode rmover=r;
-        for(int i=1;i<res.size();i++){
-            ListNode ans=new ListNode(res.get(i));
-            rmover.next=ans;
-            rmover=ans;
+        temp.val=res.get(0);
+        temp=temp.next;
+        int count=1;
+        while( count<res.size()&& temp!=null){
+            temp.val=res.get(count);
+            count++;
+            temp=temp.next;
         }
-        return r;
+        return head;
     }
 }
