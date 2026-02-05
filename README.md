@@ -94,6 +94,7 @@ DSA
 | [0073-set-matrix-zeroes](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0229-majority-element-ii) |
 | [1319-unique-number-of-occurrences](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/1319-unique-number-of-occurrences) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -161,6 +162,7 @@ DSA
 | [0088-merge-sorted-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0283-move-zeroes) |
@@ -231,6 +233,7 @@ DSA
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/MelvinFredrickJS/Leet-Code/tree/master/0328-odd-even-linked-list) |
 ## Prefix Sum
