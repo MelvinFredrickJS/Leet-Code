@@ -1,24 +1,24 @@
 class Solution {
     public void setZeroes(int[][] matrix) {
-        int row[]=new int[matrix.length];
-        int col[]=new int[matrix[0].length];
-        int len= matrix.length;
-        for(int i=0;i<len;i++){
-            for(int j=0;j<col.length;j++){
+        int rows=matrix.length;
+        int col=matrix[0].length;
+        int rowarr[]=new int[rows];
+        int colarr[]=new int[col];
+        for(int i=0;i<rows;i++){
+            for(int j=0;j<col;j++){
                 if(matrix[i][j]==0){
-                    row[i]=1;
-                    col[j]=1;
+                    rowarr[i]=1;
+                    colarr[j]=1;
                 }
             }
         }
-        for(int i=0;i<len;i++){
-            for(int j=0;j<col.length;j++){
-                if(row[i]==1||col[j]==1){
+        for(int i=0;i<rows;i++){
+            for(int j=0;j<col;j++){
+                if(rowarr[i]==1||colarr[j]==1){
                     matrix[i][j]=0;
                 }
             }
         }
-        
         
     }
 }
