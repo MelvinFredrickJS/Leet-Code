@@ -1,24 +1,23 @@
 class Solution {
-    public void swap(int i, int j ,int nums[]){
-        int temp=nums[i];
-        nums[i]=nums[j];
-        nums[j]=temp;
+    public void swap(int a, int n, int arr[]){
+        int temp=arr[a];
+        arr[a]=arr[n];
+        arr[n]=temp;
+
     }
     public void moveZeroes(int[] nums) {
-        int j=-1;
-        for(int i=0;i<nums.length;i++){
-            if(nums[i]==0){
-                j=i;
+        int pointer=-1;
+        for(int k=0;k<nums.length;k++){
+            if(nums[k]==0){
+                pointer=k;
                 break;
             }
         }
-        if(j==-1){
-            return;
-        }
-        for(int i=j+1;i<nums.length;i++){
-            if(nums[i]!=0){
-                swap(i,j,nums);
-                j++;
+        if(pointer==-1) return;
+        for(int j=pointer+1;j<nums.length;j++){
+            if(nums[j]!=0){
+                swap(j,pointer,nums);
+                pointer++;
             }
         }
     }
