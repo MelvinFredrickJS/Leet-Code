@@ -5,19 +5,19 @@ class Solution {
         arr[b]=temp;
     }
     public void sortColors(int[] nums) {
-        int low=0;
+        int left=0;
         int mid=0;
-        int high=nums.length-1;
-        while(mid<=high){
+        int right=nums.length-1;
+        while(mid<=right){
             if(nums[mid]==0){
-                swap(low,mid,nums);
-                low++;
+                swap(left,mid,nums);
+                left++;
                 mid++;
             }else if(nums[mid]==1){
                 mid++;
-            }else{
-                swap(mid,high,nums);
-                high--;
+            }else if(nums[mid]==2){
+                swap(mid,right,nums);
+                right--;
             }
         }
     }
