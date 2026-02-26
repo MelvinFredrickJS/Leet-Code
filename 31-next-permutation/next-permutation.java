@@ -1,9 +1,12 @@
 class Solution {
-    public void swap(int fn,int sn,int nums[]){
-        int temp=nums[fn];
-        nums[fn]=nums[sn];
-        nums[sn]=temp;
-
+    public void rev(int start,int stop, int arr[]){
+        while(start<stop){
+            int temp=arr[start];
+            arr[start]=arr[stop];
+            arr[stop]=temp;
+            start++;
+            stop--;
+        }
     }
     public void nextPermutation(int[] nums) {
         int ind=-1;
@@ -14,32 +17,17 @@ class Solution {
             }
         }
         if(ind==-1){
-            int left=0;
-            int right=nums.length-1;
-            while(right>=left){
-                int temp=nums[left];
-                nums[left]=nums[right];
-                nums[right]=temp;
-                left++;
-                right--;
-            }
+            rev(0,nums.length-1,nums);
             return;
         }
-        for(int j=nums.length-1;j>ind;j--){
-            if(nums[ind]<nums[j]){
-                swap(ind,j,nums);
+        for(int i=nums.length-1;i>ind;i--){
+            if(nums[i]>nums[ind]){
+                int temp=nums[i];
+                nums[i]=nums[ind];
+                nums[ind]=temp;
                 break;
             }
         }
-        int left=ind+1;
-        int right=nums.length-1;
-        while(right>=left){
-            int temp=nums[left];
-            nums[left]=nums[right];
-            nums[right]=temp;
-            left++;
-            right--;
-        }
-        
+        rev(ind+1,nums.length-1, nums);
     }
 }
